@@ -326,7 +326,7 @@ DigiClock/
 │   ├── clock_photo_1.jpg   ← Build photo
 │   └── clock_photo_2.jpg   ← Build photo
 └── 3d_files/
-    └── enclosure.stl       ← 3D printable case
+    └── enclosure       ← 3D printable case
 </pre>
 
 ---
