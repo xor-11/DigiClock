@@ -2,7 +2,7 @@
   <img src="images/logo.png" alt="DigiClock Logo" width="200"/>
 </p>
 
-<h1 align="center">DigiClock — ATtiny85 OLED Wrist/Desk Clock</h1>
+<h1 align="center">DigiClock — ATtiny85 OLED Desk Clock</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MCU-ATtiny85-blue?style=flat-square"/>
